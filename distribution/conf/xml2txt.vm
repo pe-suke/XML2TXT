@@ -1,0 +1,5 @@
+#foreach($record in $records)
+$record.path/[[[$record.value]]]
+#end
+
+/RECORD/END/

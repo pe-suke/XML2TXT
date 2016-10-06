@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="XML2TXT/distribution/lib/Xml2Txt.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/XML2TXT/配布用Jar出力.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="/BenchimarkAutoTestTool/META-INF/MANIFEST.MF" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=XML2TXT/src&lt;common"/>
+        <javaElement handleIdentifier="=XML2TXT/src&lt;xml2txt"/>
+    </selectedElements>
+</jardesc>

@@ -1,0 +1,64 @@
+[INFO ] 2013-09-26 10:52:53,186 [main] パラメータ:スレッド数=2
+[INFO ] 2013-09-26 10:52:53,228 [main] パラメータ:template=c:\xml2txt.vm
+[INFO ] 2013-09-26 10:54:23,104 [main] パラメータ:スレッド数=2
+[INFO ] 2013-09-26 10:54:23,104 [main] パラメータ:template=c:\xml2txt.vm
+[INFO ] 2013-09-26 10:55:38,609 [main] パラメータ:スレッド数=2
+[INFO ] 2013-09-26 10:55:38,610 [main] パラメータ:template=c:\xml2txt.vm
+[INFO ] 2013-09-26 10:58:03,556 [main] パラメータ:スレッド数=2
+[INFO ] 2013-09-26 10:58:03,556 [main] パラメータ:template=c:\xml2txt.vm
+[INFO ] 2013-09-26 11:02:33,834 [main] パラメータ:スレッド数=2
+[INFO ] 2013-09-26 11:02:33,835 [main] パラメータ:template=C:\Users\tis303216\Desktop\Endeca_env_pack\XML2TXT\distribution\confxml2txt.vm
+[INFO ] 2013-09-26 11:03:58,535 [main] パラメータ:スレッド数=2
+[INFO ] 2013-09-26 11:03:58,535 [main] パラメータ:template=C:\Users\tis303216\Desktop\Endeca_env_pack\XML2TXT\distribution\confxml2txt.vm
+[INFO ] 2013-09-26 11:04:57,312 [main] パラメータ:スレッド数=2
+[INFO ] 2013-09-26 11:04:57,313 [main] パラメータ:template=C:\Users\tis303216\Desktop\Endeca_env_pack\XML2TXT\distribution\conf\xml2txt.vm
+[INFO ] 2013-09-26 11:05:35,767 [main] パラメータ:スレッド数=2
+[INFO ] 2013-09-26 11:05:35,768 [main] パラメータ:template=C:\Users\tis303216\Desktop\Endeca_env_pack\XML2TXT\distribution\conf\xml2txt.vm
+[DEBUG] 2013-09-26 11:05:42,363 [main] テンプレート読み込み成功:C:\Users\tis303216\Desktop\Endeca_env_pack\XML2TXT\distribution\conf\xml2txt.vm
+[DEBUG] 2013-09-26 11:05:49,344 [main] テンプレート読み込み成功:C:\Users\tis303216\Desktop\Endeca_env_pack\XML2TXT\distribution\conf\xml2txt.vm
+[INFO ] 2013-09-26 11:05:49,345 [main] パラメータ:inputDir=c:\Users\tis303216\Desktop\Endeca_env_pack\xml
+[INFO ] 2013-09-26 11:05:49,345 [main] パラメータ:srcEncoding=UTF-8
+[INFO ] 2013-09-26 11:05:49,345 [main] パラメータ:outputDir=c:\Users\tis303216\Desktop\Endeca_env_pack\txt
+[INFO ] 2013-09-26 11:05:49,345 [main] パラメータ:destEncoding=UTF-8
+[INFO ] 2013-09-26 11:05:49,345 [main] パラメータ:exportToFlatFlg=false
+[INFO ] 2013-09-26 11:05:49,345 [main] パラメータ:outputWithBomFlg=true
+[DEBUG] 2013-09-26 11:05:49,459 [main] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\1175.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\1175.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,459 [main] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\1182.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\1182.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,459 [main] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\1281.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\1281.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,460 [main] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\1339.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\1339.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,460 [main] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\1682.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\1682.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,460 [main] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\181.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\181.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,460 [main] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\1814.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\1814.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,461 [main] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\182.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\182.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,461 [main] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\2142.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\2142.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,461 [main] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\216.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\216.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,461 [main] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\358.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\358.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,461 [main] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\571.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\571.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,462 [main] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\663.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\663.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,462 [main] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\670.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\670.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,462 [main] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\689.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\689.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,462 [main] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\715.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\715.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,462 [main] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\83.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\83.txt(UTF-8,BOM付き),success=0}
+[INFO ] 2013-09-26 11:05:49,463 [main] 処理件数=17
+[INFO ] 2013-09-26 11:05:49,520 [Thread-1] ワーカースレッド起動
+[INFO ] 2013-09-26 11:05:49,520 [Thread-2] ワーカースレッド起動
+[DEBUG] 2013-09-26 11:05:49,520 [Thread-2] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\1182.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\1182.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,520 [Thread-1] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\1175.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\1175.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,794 [Thread-1] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\1281.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\1281.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,797 [Thread-2] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\1339.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\1339.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,804 [Thread-1] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\1682.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\1682.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,809 [Thread-2] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\181.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\181.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,816 [Thread-1] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\1814.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\1814.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,820 [Thread-2] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\182.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\182.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,822 [Thread-1] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\2142.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\2142.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,824 [Thread-2] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\216.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\216.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,826 [Thread-1] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\358.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\358.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,829 [Thread-1] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\571.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\571.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,829 [Thread-2] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\663.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\663.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,832 [Thread-1] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\670.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\670.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,833 [Thread-2] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\689.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\689.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,837 [Thread-1] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\715.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\715.txt(UTF-8,BOM付き),success=0}
+[DEBUG] 2013-09-26 11:05:49,837 [Thread-2] ConvertJob{inFile=c:\Users\tis303216\Desktop\Endeca_env_pack\xml\83.xml(UTF-8),outFile=c:\Users\tis303216\Desktop\Endeca_env_pack\txt\83.txt(UTF-8,BOM付き),success=0}
+[INFO ] 2013-09-26 11:05:49,883 [Thread-1] ワーカースレッド終了
+[INFO ] 2013-09-26 11:05:49,886 [Thread-2] ワーカースレッド終了
+[INFO ] 2013-09-26 11:05:50,600 [main] ファイル数=17成功=17,失敗=0,未処理=0,処理時間=14.898

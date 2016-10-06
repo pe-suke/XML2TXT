@@ -1,0 +1,31 @@
+Fri Sep 20 13:17:14 JST 2013  [debug] AvalonLogChute initialized using file 'velocity.log'
+Fri Sep 20 13:17:14 JST 2013  [trace] *******************************************************************
+Fri Sep 20 13:17:14 JST 2013  [debug] Starting Apache Velocity v1.5 (compiled: 2007-02-22 08:52:29)
+Fri Sep 20 13:17:14 JST 2013  [trace] RuntimeInstance initializing.
+Fri Sep 20 13:17:14 JST 2013  [debug] Default Properties File: org\apache\velocity\runtime\defaults\velocity.properties
+Fri Sep 20 13:17:14 JST 2013  [debug] Trying to use logger class org.apache.velocity.runtime.log.AvalonLogChute
+Fri Sep 20 13:17:14 JST 2013  [debug] Using logger class org.apache.velocity.runtime.log.AvalonLogChute
+Fri Sep 20 13:17:14 JST 2013  [debug] Default ResourceManager initializing. (class org.apache.velocity.runtime.resource.ResourceManagerImpl)
+Fri Sep 20 13:17:14 JST 2013  [debug] ResourceLoader instantiated: org.apache.velocity.runtime.resource.loader.FileResourceLoader
+Fri Sep 20 13:17:14 JST 2013  [trace] FileResourceLoader : initialization starting.
+Fri Sep 20 13:17:14 JST 2013  [debug] Do unicode file recognition:  false
+Fri Sep 20 13:17:14 JST 2013   [info] FileResourceLoader : adding path '.'
+Fri Sep 20 13:17:14 JST 2013  [trace] FileResourceLoader : initialization complete.
+Fri Sep 20 13:17:14 JST 2013  [debug] ResourceCache: initialized (class org.apache.velocity.runtime.resource.ResourceCacheImpl)
+Fri Sep 20 13:17:14 JST 2013  [trace] Default ResourceManager initialization complete.
+Fri Sep 20 13:17:14 JST 2013  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Literal
+Fri Sep 20 13:17:14 JST 2013  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Macro
+Fri Sep 20 13:17:14 JST 2013  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Parse
+Fri Sep 20 13:17:14 JST 2013  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Include
+Fri Sep 20 13:17:14 JST 2013  [debug] Loaded System Directive: org.apache.velocity.runtime.directive.Foreach
+Fri Sep 20 13:17:14 JST 2013  [debug] Created '20' parsers.
+Fri Sep 20 13:17:14 JST 2013  [trace] Velocimacro : initialization starting.
+Fri Sep 20 13:17:14 JST 2013  [debug] Velocimacro : "velocimacro.library" is not set.  Trying default library: VM_global_library.vm
+Fri Sep 20 13:17:14 JST 2013  [debug] Velocimacro : Default library not found.
+Fri Sep 20 13:17:14 JST 2013  [debug] Velocimacro : allowInline = true : VMs can be defined inline in templates
+Fri Sep 20 13:17:14 JST 2013  [debug] Velocimacro : allowInlineToOverride = false : VMs defined inline may NOT replace previous VM definitions
+Fri Sep 20 13:17:14 JST 2013  [debug] Velocimacro : allowInlineLocal = false : VMs defined inline will be global in scope if allowed.
+Fri Sep 20 13:17:14 JST 2013  [debug] Velocimacro : autoload off : VM system will not automatically reload global library macros
+Fri Sep 20 13:17:14 JST 2013  [trace] Velocimacro : Velocimacro : initialization complete.
+Fri Sep 20 13:17:14 JST 2013  [trace] RuntimeInstance successfully initialized.
+Fri Sep 20 13:17:14 JST 2013  [debug] ResourceManager : found conf\xml2txt.vm with loader org.apache.velocity.runtime.resource.loader.FileResourceLoader
