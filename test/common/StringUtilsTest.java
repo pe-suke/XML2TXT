@@ -18,7 +18,7 @@ public class StringUtilsTest extends TestCase {
             System.out.println( StringUtils.getRelativePathSimple(new File("c:\\root\\dir3\\dir2\\file.txt"), new File("c:\\root\\dir1")));
             fail("例外にならないのはおかしい");
         } catch (Exception e) {
-            
+             
         }
     }
     
